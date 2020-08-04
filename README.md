@@ -7,8 +7,7 @@ Hi. My name is Nicole. I'm a Computer Science student at University College Dubl
 * 👯 I’m looking to contribute to more open source projects
 * 💬 Ask me about Netsoc or SISTEM
 * 🌱 I’m currently learning about Quantum Computing & Qiskit
-* 📬 Get in touch at nicolemccabechu@gmail.com
-
+* 📬  [![Email](https://img.shields.io/badge/nicolemccabechu@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicolemccabechu@gmail.com)
 
 
 ### ☕️ How to Reach Me
