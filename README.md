@@ -1,4 +1,12 @@
 ### Howdy, Nerds
+<p align="left">
+  <a href="https://www.linkedin.com/in/nicolemccabechu/">
+    <img src="https://img.shields.io/badge/-nicolemccabechu-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/nicolemccabechu">
+    <img src="https://img.shields.io/twitter/follow/nicolemccabechu?style=social" alt="Twitter" />
+  </a>
+</p>
 
 Hi. My name is Nicole. I'm a Computer Science student at University College Dublin. I'm also the current Chairperson at UCD Netsoc which is UCD's Internet and Computer Science Society, as well as being an organiser for a student-run tech conference called [SISTEM](https://sistem.intersocs.ie/).
 
@@ -7,10 +15,11 @@ Hi. My name is Nicole. I'm a Computer Science student at University College Dubl
 * 👯 I’m looking to contribute to more open source projects
 * 💬 Ask me about Netsoc or SISTEM
 * 🌱 I’m currently learning about Quantum Computing & Qiskit
-* 📬  [![Email](https://img.shields.io/badge/nicolemccabechu@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicolemccabechu@gmail.com)
+* 📬 Email me at nicolemccabechu@gmail.com
 
 
 ### ☕️ How to Reach Me
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nicolemccabechu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nicolemccabechu" height="40" width="40" /></a>
