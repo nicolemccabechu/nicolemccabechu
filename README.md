@@ -22,4 +22,3 @@ Hi. My name is Nicole. I'm a Computer Science student at University College Dubl
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nicolemccabechu&show_icons=true&theme=synthwave" alt="nicolemccabechu" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolemccabechu&show_icons=true&theme=synthwave" alt="nicolemccabechu" />
 
-📌 Liked this introduction? You can also make a similar one for yourself. Star and Fork this[README](https://github.com/nicolemccabechu/nicolemccabechu)
