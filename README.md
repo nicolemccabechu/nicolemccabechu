@@ -20,4 +20,4 @@ Hi. My name is Nicole. I'm a Computer Science student at University College Dubl
 
 ### Languages & Tools
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nicolemccabechu&show_icons=true&theme=synthwave" alt="nicolemccabechu" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolemccabechu&show_icons=true&theme=synthwave&layout=compact" alt="nicolemccabechu" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolemccabechu&show_icons=true&theme=synthwave" alt="nicolemccabechu" />
