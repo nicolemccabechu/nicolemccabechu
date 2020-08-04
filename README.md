@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-Hi. My name is Nicole. I'm a Computer Science student at University College Dublin.
+Hi. My name is Nicole. I'm a Computer Science student at University College Dublin. I'm also the current Chairperson at UCD Netsoc - UCD's Internet and Computer Science Society, as well as being an organiser for a student-run tech conference called [SISTEM](https://sistem.intersocs.ie/).
 
 
-- 👩🏻‍💻Pronouns: She/Her
-- 📬 Get in touch at nicolemccabechu@gmail.com
+👩🏻‍💻Pronouns: She/Her
+
+📬 Get in touch at nicolemccabechu@gmail.com
 
 
 
