@@ -9,7 +9,6 @@ Hi. My name is Nicole. I'm a Computer Science student at University College Dubl
 * 🌱 I’m currently learning about Quantum Computing & Qiskit
 * 📬 Get in touch at nicolemccabechu@gmail.com
 
-![Alt Text](https://media.giphy.com/media/VGcVZyreAU2UewDI81/giphy.gif)
 
 
 ### ☕️ How to Reach Me
