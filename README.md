@@ -5,7 +5,6 @@ Hi. My name is Nicole. I'm a Computer Science student at University College Dubl
 
 
 * 👩🏻‍💻 Pronouns: She/Her
-* 👯 I’m looking to contribute to more open source projects
 * 💬 Ask me about Netsoc or SISTEM
 * 🌱 I’m currently learning about Quantum Computing & Qiskit
 * 📬 Email me at nicolemccabechu@gmail.com
