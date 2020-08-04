@@ -1,13 +1,13 @@
-### Hi there 👋
+### Howdy, Nerds
 
 Hi. My name is Nicole. I'm a Computer Science student at University College Dublin. I'm also the current Chairperson at UCD Netsoc which is UCD's Internet and Computer Science Society, as well as being an organiser for a student-run tech conference called [SISTEM](https://sistem.intersocs.ie/).
 
 
-👩🏻‍💻 Pronouns: She/Her
-
-📬 Get in touch at nicolemccabechu@gmail.com
-
-
+* 👩🏻‍💻 Pronouns: She/Her
+* 👯 I’m looking to contribute to more open source projects
+* 💬 Ask me about Netsoc or SISTEM
+* 🌱 I’m currently learning about Quantum Computing & Qiskit
+* 📬 Get in touch at nicolemccabechu@gmail.com
 
 
 ### How to Reach Me
