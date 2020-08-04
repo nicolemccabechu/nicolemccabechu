@@ -1,12 +1,4 @@
 ### Howdy, Nerds
-<p align="left">
-  <a href="https://www.linkedin.com/in/nicolemccabechu/">
-    <img src="https://img.shields.io/badge/-nicolemccabechu-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/nicolemccabechu">
-    <img src="https://img.shields.io/twitter/follow/nicolemccabechu?style=social" alt="Twitter" />
-  </a>
-</p>
 
 Hi. My name is Nicole. I'm a Computer Science student at University College Dublin. I'm also the current Chairperson at UCD Netsoc which is UCD's Internet and Computer Science Society, as well as being an organiser for a student-run tech conference called [SISTEM](https://sistem.intersocs.ie/).
 
