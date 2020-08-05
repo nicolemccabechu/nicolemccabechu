@@ -11,7 +11,7 @@ Hi. My name is Nicole. I'm a Computer Science student at University College Dubl
 * 📬 Email me at nicolemccabechu@gmail.com
 
 #### 💻 Skills
-Languages: Python, R, Java, C/C++, JavaScript, HTML, CSS
+Languages: Python, R, Java, C/C++, JavaScript, HTML, CSS <br>
 IDEs: Visual Studio Code, IntelliJ, PyCharm
 
 
