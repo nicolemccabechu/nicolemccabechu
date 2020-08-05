@@ -10,6 +10,10 @@ Hi. My name is Nicole. I'm a Computer Science student at University College Dubl
 * 🌱 I’m currently learning about Quantum Computing & Qiskit
 * 📬 Email me at nicolemccabechu@gmail.com
 
+#### 💻 Skills
+Languages: Python, R, Java, C/C++, JavaScript, HTML, CSS
+IDEs: Visual Studio Code, IntelliJ, PyCharm
+
 
 #### ☕️ Contact Me
 
