@@ -3,14 +3,16 @@
 ![](https://komarev.com/ghpvc/?username=nicolemccabechu&color=f222ff)
 <img align='right' src="https://media.giphy.com/media/j0qColwO6ANC3Or9eB/giphy.gif" width="230">
 
-Hi. My name is Nicole. I'm a Computer Science student at University College Dublin. I'm also the current Chairperson at [UCD Netsoc](https://netsoc.com/) which is UCD's Internet and Computer Science Society, as well as being an organiser for a student-run tech conference called [SISTEM](https://sistem.intersocs.ie/).
+<p allign = "center">Hi. My name is Nicole. I'm a Computer Science student at University College Dublin. I'm also the current Chairperson at <a href="https://netsoc.com/">UCD Netsoc<a/> which is UCD's Internet and Computer Science Society, as well as being an organiser for a student-run tech conference called <a href ="https://sistem.intersocs.ie/">SISTEM</a>.</p>
 
-* 🏳️‍🌈 Pronouns: She/Her
-* 💬 Ask me about Netsoc or SISTEM
-* 👩🏻‍💻 I’m currently learning about Quantum Computing & Qiskit
-* 📬 Email me at nicolemccabechu@gmail.com
+<ul>
+  <li>🏳️‍🌈 Pronouns: She/Her</li>
+  <li>💬 Ask me about Netsoc or SISTEM</li>
+  <li> 👩🏻‍💻 I’m currently learning about Quantum Computing & Qiskit</li>
+  <li>📬 Email me at nicolemccabechu@gmail.com</li>
+ </ul>
 
-#### 💻 Skills
+<h4> 💻 Skills</h4>
 <ul>
 <li>Languages<br>
   <!-- primary -->
@@ -31,7 +33,7 @@ Hi. My name is Nicole. I'm a Computer Science student at University College Dubl
 </li>
 </ul>
 
-#### ☕️ Contact Me
+<h4>☕️ Contact Me</h4>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicolemccabechu/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nicolemccabechu/)
