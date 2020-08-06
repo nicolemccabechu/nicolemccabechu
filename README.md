@@ -1,4 +1,4 @@
-<h2>Howdy, Nerds <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"></h2>
+<h2>Howdy, Nerds<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"></h2>
 
 ![](https://komarev.com/ghpvc/?username=nicolemccabechu&color=f222ff)
 <img align='right' src="https://media.giphy.com/media/j0qColwO6ANC3Or9eB/giphy.gif" width="230">
@@ -11,13 +11,25 @@ Hi. My name is Nicole. I'm a Computer Science student at University College Dubl
 * 📬 Email me at nicolemccabechu@gmail.com
 
 #### 💻 Skills
-* Languages: Python, R, Java, C/C++, JavaScript, HTML, CSS
-* IDEs: Visual Studio Code, IntelliJ, PyCharm
-* OS: Linux, Unix, Windows
-* Version Control
-* Scrum
-* Public Speaking
-
+<ul>
+<li>Languages<br>
+  <!-- primary -->
+  <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/-R-165CAA?style=flat-square&logo=r&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=java&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-8e44ad?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-2c3e50?style=flat-square&logo=c&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-E32934?style=flat-square&logo=mysql&logoColor=black&textColor=black" />
+  <!-- web -->
+  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-F16529?style=flat-square&logo=HTML5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=CSS3&logoColor=white" />
+</li>
+<li>Other:<br>
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-e67e22?style=flat-square&logo=linux&logoColor=black&textColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-e67e22?style=flat-square&logo=git&logoColor=white" />
+</li>
+</ul>
 
 #### ☕️ Contact Me
 
