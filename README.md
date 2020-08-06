@@ -5,9 +5,9 @@
 
 Hi. My name is Nicole. I'm a Computer Science student at University College Dublin. I'm also the current Chairperson at [UCD Netsoc](https://netsoc.com/) which is UCD's Internet and Computer Science Society, as well as being an organiser for a student-run tech conference called [SISTEM](https://sistem.intersocs.ie/).
 
-* 👩🏻‍💻 Pronouns: She/Her
+* 🏳️‍🌈 Pronouns: She/Her
 * 💬 Ask me about Netsoc or SISTEM
-* 🌱 I’m currently learning about Quantum Computing & Qiskit
+* 👩🏻‍💻 I’m currently learning about Quantum Computing & Qiskit
 * 📬 Email me at nicolemccabechu@gmail.com
 
 #### 💻 Skills
@@ -26,7 +26,7 @@ Hi. My name is Nicole. I'm a Computer Science student at University College Dubl
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=CSS3&logoColor=white" />
 </li>
 <li>Other:<br>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-e67e22?style=flat-square&logo=linux&logoColor=black&textColor=black" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-E95420?style=flat-square&logo=linux&logoColor=black&textColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-e67e22?style=flat-square&logo=git&logoColor=white" />
 </li>
 </ul>
