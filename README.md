@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=nicolemccabechu&color=f222ff)
 <img align='right' src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="230">
 
-<p allign = "center">Hi. My name is Nicole. I'm a Computer Science student at University College Dublin. I'm also the current Chairperson at <a href="https://netsoc.com/">UCD Netsoc<a/> which is UCD's Internet and Computer Science Society, as well as being an organiser for a student-run tech conference called <a href ="https://sistemconf.com/">SISTEM</a>.</p>
+<p allign = "center">Hi. My name is Nicole. I'm a Computer Science student at University College Dublin. I'm also a former Chairperson (2020/21) and current committee member at <a href="https://netsoc.com/">UCD Netsoc<a/> which is UCD's Internet and Computer Science Society, as well as being an organiser for a student-run tech conference called <a href ="https://sistemconf.com/">SISTEM</a>.</p>
 
 <ul>
   <li>🏳️‍🌈 Pronouns: She/Her</li>
