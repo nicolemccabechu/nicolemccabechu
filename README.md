@@ -26,7 +26,6 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=CSS3&logoColor=white" />
 </li>
 <li>Other:<br>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-E95420?style=flat-square&logo=linux&logoColor=black&textColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-e67e22?style=flat-square&logo=git&logoColor=white" />
 </li>
