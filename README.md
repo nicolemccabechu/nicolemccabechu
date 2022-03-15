@@ -1,4 +1,4 @@
-<h2>Howdy, Nerds<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"></h2>
+<h2>Howdy, Nerds</h2>
 
 ![](https://komarev.com/ghpvc/?username=nicolemccabechu&color=f222ff)
 <img align='right' src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="230">
