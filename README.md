@@ -13,21 +13,24 @@
   <li>📬 Email me at nicolemccabechu@gmail.com</li>
  </ul>
 
-<h4> 💻 Skills</h4>
+<h4> 💻 Languages and Technologies I have Experience With </h4>
 <ul>
 <li>Languages<br>
   <!-- primary -->
-  <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=java&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-8e44ad?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-2c3e50?style=flat-square&logo=c&logoColor=white" />
-  <!-- web -->
-  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-F16529?style=flat-square&logo=HTML5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=CSS3&logoColor=white" />
-</li>
-<li>Other:<br>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-E95420?style=flat-square&logo=linux&logoColor=black&textColor=black" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-e67e22?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/-C++-8e44ad?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-2c3e50?style=for-the-badge&logo=c&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-E95420?style=for-the-badge&logo=linux&logoColor=black&textColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-e67e22?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </li>
 </ul>
 
