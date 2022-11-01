@@ -12,6 +12,10 @@
   <li> 👩🏻‍💻 I’m currently trying to survive college in a pandemic, yay</li>
   <li>📬 Email me at nicolemccabechu@gmail.com</li>
  </ul>
+ 
+ ### Work Experience:
+
+:star: 2022 June - Sep: Game Programmer Intern @ [Viridian Software](https://viridiansoftware.com/) :video_game:
 
 <h4> 💻 Languages and Technologies I have Experience With </h4>
 <ul>
