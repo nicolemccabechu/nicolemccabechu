@@ -16,7 +16,7 @@
 
 :star: 2022 June - Sep: Game Programmer Intern @ [Viridian Software](https://viridiansoftware.com/) :video_game:
 
-<h4> 💻 Languages and Technologies I have Experience With </h4>
+<h3> Skills </h4>
 <ul>
 <li>Languages, Frameworks & Libraries<br>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -40,7 +40,7 @@
   </li>
 </ul>
 
-<h4>☕️ Contact Me</h4>
+<h3>Contact Me</h4>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicolemccabechu/)
 [<img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/nicolemccabechu/)
