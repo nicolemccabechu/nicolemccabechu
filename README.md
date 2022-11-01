@@ -44,9 +44,7 @@
 <h4>☕️ Contact Me</h4>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicolemccabechu/)
-[<img src = "https://img.shields.io/badge/polywork-%7FFF00.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.polywork.com/nicolemccabechu/)
-
-
+[<img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/nicolemccabechu/)
 
 ---
 <h4> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="24"> Github Stats</h4>
