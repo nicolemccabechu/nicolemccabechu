@@ -9,7 +9,6 @@
   <li>🏳️‍🌈 Pronouns: She/Her</li>
   <li>📍 Based in Dublin, Ireland</li>
   <li>💬 Ask me about Netsoc or SISTEM</li>
-  <li> 👩🏻‍💻 I’m currently trying to survive college in a pandemic, yay</li>
   <li>📬 Email me at nicolemccabechu@gmail.com</li>
  </ul>
  
