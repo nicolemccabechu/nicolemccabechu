@@ -51,8 +51,5 @@
 <h3> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="24"> My GitHub Stats</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nicolemccabechu&show_icons=true&theme=synthwave" alt="Nicole's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolemccabechu&show_icons=true&theme=synthwave" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nicolemccabechu&icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6" alt="Nicole's github stats" />
 </a>
