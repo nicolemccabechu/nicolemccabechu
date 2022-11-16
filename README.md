@@ -16,6 +16,7 @@
 
 :star: 2022 June - Sep: Game Programmer Intern @ [Viridian Software](https://viridiansoftware.com/) :video_game:
 
+---
 <h3> Skills </h4>
 <ul>
 <li>Languages, Frameworks & Libraries<br>
@@ -47,7 +48,7 @@
 [<img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/nicolemccabechu/)
 
 ---
-<h4> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="24"> Github Stats</h4>
+<h3> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="24"> My Github Stats</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=nicolemccabechu&show_icons=true&theme=synthwave" alt="Nicole's github stats" />
