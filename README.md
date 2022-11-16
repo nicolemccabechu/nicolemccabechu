@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=nicolemccabechu&color=f222ff)
 <img align='right' src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="230">
 
-<p allign = "center">Hi. My name is Nicole. I'm a Computer Science student at University College Dublin. I'm also a former Chairperson (2020/21) and current committee member at <a href="https://netsoc.com/">UCD Netsoc<a/> which is UCD's Internet and Computer Science Society, as well as being an organiser for a student-run tech conference called <a href ="https://sistemconf.com/">SISTEM</a>.</p>
+<p allign = "center">Hi. My name is Nicole. I'm a Computer Science student at <a href="https://www.myucd.ie/courses/science/computer-science/">University College Dublin</a>. I'm also a former Chairperson (2020/21) and current committee member at <a href="https://netsoc.com/">UCD Netsoc<a/> which is UCD's Internet and Computer Science Society, as well as being an organiser for a student-run tech conference called <a href ="https://sistemconf.com/">SISTEM</a>.</p>
 
 <ul>
   <li>🏳️‍🌈 Pronouns: She/Her</li>
@@ -48,7 +48,7 @@
 [<img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/nicolemccabechu/)
 
 ---
-<h3> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="24"> My Github Stats</h3>
+<h3> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="24"> My GitHub Stats</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=nicolemccabechu&show_icons=true&theme=synthwave" alt="Nicole's github stats" />
