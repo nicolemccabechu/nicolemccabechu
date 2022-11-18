@@ -13,6 +13,7 @@
  ### Work Experience:
 
 :star: 2022 June - Sep: Game Programmer Intern @ [Viridian Software](https://viridiansoftware.com/) :video_game:
+- Credited in the game [Alchemic Cutie](https://alchemiccutie.com/)
 
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">Tech Stack</h3>
 
